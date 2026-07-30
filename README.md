@@ -145,7 +145,7 @@ http://127.0.0.1:8000/docs
 
 | Resources | Opportunities |
 |-----------|---------------|
-| ![](screenshots/resources.png) | ![](screenshots/opportunities.png) |
+| ![](screenshots/resources.png) | ![](screenshots/opportunities2.png) |
 
 | Login | Register |
 |-------|----------|
