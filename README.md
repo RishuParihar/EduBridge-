@@ -1,4 +1,4 @@
-# 🎓 EduBridge – Smart Learning Resource Platform
+# EduBridge – Smart Learning Resource Platform
 
 > A Full-Stack Educational Platform built to support **United Nations Sustainable Development Goal 4 (Quality Education)** by providing students with free learning resources, career opportunities, and a centralized learning ecosystem.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 EduBridge is a modern full-stack web platform designed to make quality education more accessible for students. It serves as a centralized hub where learners can access study resources, previous year papers, AI learning materials, internships, hackathons, certifications, and much more.
 
@@ -18,7 +18,7 @@ The platform has been developed with scalability, responsiveness, and user exper
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔐 Secure User Authentication
 - 📚 Study Resources Repository
@@ -34,7 +34,7 @@ The platform has been developed with scalability, responsiveness, and user exper
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ```
                 React + Tailwind CSS
@@ -48,7 +48,7 @@ The platform has been developed with scalability, responsiveness, and user exper
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -72,38 +72,8 @@ The platform has been developed with scalability, responsiveness, and user exper
 - VS Code
 - Git
 - GitHub
-- Postman
 
----
-
-## 📂 Project Structure
-
-```
-EduBridge
-│
-├── frontend
-│   ├── src
-│   ├── components
-│   ├── pages
-│   ├── assets
-│   └── App.jsx
-│
-├── backend
-│   ├── app
-│   ├── routes
-│   ├── models
-│   ├── database
-│   ├── main.py
-│   └── requirements.txt
-│
-├── screenshots
-├── README.md
-└── LICENSE
-```
-
----
-
-## ⚙️ Installation
+## Installation
 
 ### Clone Repository
 
@@ -143,7 +113,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🌐 Running Application
+## Running Application
 
 Frontend
 
@@ -165,7 +135,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > Replace these with actual screenshots.
 
@@ -183,7 +153,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 - College Students
 - Engineering Students
@@ -193,7 +163,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🌍 SDG Contribution
+## SDG Contribution
 
 This project directly contributes to:
 
@@ -203,7 +173,7 @@ This project directly contributes to:
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - AI Study Assistant
 - Personalized Learning Recommendations
@@ -216,51 +186,15 @@ This project directly contributes to:
 - Admin Dashboard
 - Email Notifications
 
----
+## Author
 
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork Repository
-
-2. Create Feature Branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit Changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push Changes
-
-```bash
-git push origin feature-name
-```
-
-5. Open Pull Request
-
----
-
-## 👨‍💻 Author
-
-**Rahul Parihar**
+**Rishu Parihar**
 
 B.Tech CSE (AI)
 
-GitHub:
-https://github.com/RishuParihar
-
-LinkedIn:
-https://linkedin.com/in/your-linkedin
-
 ---
 
-## ⭐ Support
+## Support
 
 If you found this project useful,
 
