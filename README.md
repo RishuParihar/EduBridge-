@@ -20,17 +20,17 @@ The platform has been developed with scalability, responsiveness, and user exper
 
 ## Features
 
-- 🔐 Secure User Authentication
-- 📚 Study Resources Repository
-- 📄 Previous Year Question Papers
-- 🤖 AI & Computer Science Learning Materials
-- 💼 Internship Opportunities
-- 🏆 Hackathons & Competitions
-- 📜 Certification Resources
-- 📊 Student Dashboard
-- 📱 Fully Responsive UI
-- ⚡ Fast API-powered Backend
-- 🎯 Modern User Experience
+- Secure User Authentication
+- Study Resources Repository
+- Previous Year Question Papers
+- AI & Computer Science Learning Materials
+- Internship Opportunities
+- Hackathons & Competitions
+- Certification Resources
+- Student Dashboard
+- Fully Responsive UI
+- Fast API-powered Backend
+- Modern User Experience
 
 ---
 
