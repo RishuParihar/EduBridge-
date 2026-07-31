@@ -45,9 +45,6 @@ The platform has been developed with scalability, responsiveness, and user exper
                         ▼
                   PostgreSQL Database
 ```
-
----
-
 ## Tech Stack
 
 ### Frontend
